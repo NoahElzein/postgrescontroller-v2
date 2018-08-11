@@ -1,1 +1,2 @@
-# postgrescontroller-v2
+# postgres-operator
+PostgreSQL Operator generated using Operator SDK library.
